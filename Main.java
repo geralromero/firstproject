@@ -74,7 +74,7 @@ public class Main {
         System.out.println(charGreek);
 
         boolean myTrueBoolean = true; // declare with 1
-        boolean myFalseBoolean = false // declared with 0
+        boolean myFalseBoolean = false; // declared with 0
     }
 
 }
